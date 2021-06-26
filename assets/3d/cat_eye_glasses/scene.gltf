@@ -1,0 +1,458 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.064722001552581787,
+        0.0053963437676429749,
+        0.024828791618347168
+      ],
+      "min": [
+        -0.064722001552581787,
+        -0.004030667245388031,
+        -0.024441242218017578
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8112,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.41603943705558777,
+        0.99991810321807861,
+        0.3891143798828125
+      ],
+      "min": [
+        -0.41603943705558777,
+        -0.99991810321807861,
+        -0.3891143798828125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.74215197563171387,
+        0.93288999795913696
+      ],
+      "min": [
+        0.66559708118438721,
+        0.89818400144577026
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5408,
+      "componentType": 5126,
+      "count": 676,
+      "max": [
+        0.36643201112747192,
+        0.96463000774383545
+      ],
+      "min": [
+        -0.36724498867988586,
+        0.85574197769165039
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3456,
+      "max": [
+        675
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 16224,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.079250112175941467,
+        0.053156167268753052,
+        0.022968053817749023
+      ],
+      "min": [
+        -0.07924988865852356,
+        -0.034236326813697815,
+        -0.032992005348205566
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 34272,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.99680125713348389,
+        0.99879604578018188,
+        1
+      ],
+      "min": [
+        -0.99680125713348389,
+        -0.98932856321334839,
+        -0.99997305870056152
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10816,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.7457200288772583,
+        0.93498998880386353
+      ],
+      "min": [
+        0.50656497478485107,
+        0.87791997194290161
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 22848,
+      "componentType": 5126,
+      "count": 1504,
+      "max": [
+        0.5989375114440918,
+        0.96149599552154541
+      ],
+      "min": [
+        -0.5989375114440918,
+        0.88468199968338013
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13824,
+      "componentType": 5125,
+      "count": 6096,
+      "max": [
+        1503
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "maximkuzlin (https://sketchfab.com/maximkuzlin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cat-eye-glasses-2db7e238fad644719a7d2d6237f4b177",
+      "title": "Cat Eye Glasses"
+    },
+    "generator": "Sketchfab-9.26.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 38208,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34880,
+      "byteOffset": 38208,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52320,
+      "byteOffset": 73088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 125408,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material.001",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          0.15947246043310292
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "metallicFactor": 0.29906775546472431,
+        "roughnessFactor": 0.25051287023633428
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "steklo_Material.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "TEXCOORD_1": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "oprava_Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.016182878986001015,
+        0,
+        0,
+        0,
+        0,
+        0.016182878986001015,
+        0,
+        0,
+        0,
+        0,
+        0.016182878986001015,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "6756ebbc3cd64bdabb2f19d71ca763cc.fbx"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        -0,
+        -1.6292067939183141e-05,
+        -99.999999999998678,
+        0,
+        0,
+        99.999999999998678,
+        -1.6292067939183141e-05,
+        0,
+        -0.023368678987026215,
+        2.2496135234832764,
+        -1.3296140432357788,
+        1
+      ],
+      "name": "steklo"
+    },
+    {
+      "mesh": 0,
+      "name": "steklo_Material.001_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        100,
+        0,
+        0,
+        0,
+        -0,
+        -1.6292067939183141e-05,
+        -99.999999999998678,
+        0,
+        0,
+        99.999999999998678,
+        -1.6292067939183141e-05,
+        0,
+        -0.023380178958177567,
+        2.8466851711273193,
+        -3.9945807456970215,
+        1
+      ],
+      "name": "oprava"
+    },
+    {
+      "mesh": 1,
+      "name": "oprava_Material_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        59.968822479248047,
+        0,
+        0,
+        0,
+        0,
+        59.968822479247876,
+        -4.5275206645633208e-06,
+        0,
+        0,
+        4.5275206645633208e-06,
+        59.968822479247876,
+        0,
+        -5.6821279525756836,
+        13.505374908447266,
+        8.652552604675293,
+        1
+      ],
+      "name": "Point"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": ""
+    },
+    {
+      "name": ""
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+

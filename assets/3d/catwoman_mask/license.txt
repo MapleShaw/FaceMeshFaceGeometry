@@ -1,0 +1,11 @@
+Model Information:
+* title:	Catwoman Mask
+* source:	https://sketchfab.com/3d-models/catwoman-mask-a9c272f6ca1c4eeabcf6f0fc3ee0d5c1
+* author:	gagikmlkn (https://sketchfab.com/gagikmlkn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Catwoman Mask" (https://sketchfab.com/3d-models/catwoman-mask-a9c272f6ca1c4eeabcf6f0fc3ee0d5c1) by gagikmlkn (https://sketchfab.com/gagikmlkn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

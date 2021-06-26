@@ -1,0 +1,465 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        8.0837802886962891,
+        1.5753684043884277,
+        1.2860922813415527
+      ],
+      "min": [
+        -8.0837802886962891,
+        -3.2532439231872559,
+        -13.402843475341797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 122160,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        0.99993491172790527,
+        1,
+        1
+      ],
+      "min": [
+        -0.99993491172790527,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        0.9919964075088501,
+        0.99310934543609619
+      ],
+      "min": [
+        0.0058525204658508301,
+        0.0061632059514522552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 81440,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        0.9919964075088501,
+        0.99310934543609619
+      ],
+      "min": [
+        0.0058525204658508301,
+        0.0061632059514522552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 162880,
+      "componentType": 5126,
+      "count": 10180,
+      "max": [
+        0.9919964075088501,
+        0.99310934543609619
+      ],
+      "min": [
+        0.0058525204658508301,
+        0.0061632059514522552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 35832,
+      "max": [
+        10179
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 244320,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        6.0290217399597168,
+        1.4157211780548096,
+        0.99794900417327881
+      ],
+      "min": [
+        -6.0290207862854004,
+        -3.0754187107086182,
+        0.44510993361473083
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 248424,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        0.27789369225502014,
+        0.12031520903110504,
+        0.99992036819458008
+      ],
+      "min": [
+        -0.27789372205734253,
+        -0.25317609310150146,
+        0.95572966337203979
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 244320,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        0.98864901065826416,
+        0.98667609691619873
+      ],
+      "min": [
+        0.011700332164764404,
+        0.013096035458147526
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 247056,
+      "componentType": 5126,
+      "count": 342,
+      "max": [
+        0.98864901065826416,
+        0.98667609691619873
+      ],
+      "min": [
+        0.011700332164764404,
+        0.013096035458147526
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 143328,
+      "componentType": 5125,
+      "count": 1758,
+      "max": [
+        341
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Bazaar Reality (https://sketchfab.com/bazaareality)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/glasses-70630fa150c442b386b4745c2bf6fdd6",
+      "title": "Glasses"
+    },
+    "generator": "Sketchfab-8.42.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 150360,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 249792,
+      "byteOffset": 150360,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 252528,
+      "byteOffset": 400152,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 162880,
+      "byteOffset": 652680,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 815560,
+      "uri": "glasses02.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/BZR_Classic_Black_Frame_Mat_baseColor.png"
+    },
+    {
+      "uri": "textures/BZR_Classic_Black_Lens_Mat_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "BZR_Classic_Black_Frame_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.068591953498835651,
+        "roughnessFactor": 0.51795627139460931
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "BZR_Classic_Black_Lens_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.84628562221452064
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "BZR_Classic_Black_Frame_BZR_Classic_Black_Frame_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "BZR_Classic_Black_Lens_BZR_Classic_Black_Lens_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 8,
+            "POSITION": 7,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "adf8b2f366e14b06b83b82fb1f609300.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0701743364334106,
+        0,
+        0,
+        0,
+        0,
+        1.0609131656140349,
+        0.1404861750760486,
+        0,
+        0,
+        -0.1404861750760486,
+        1.0609131656140349,
+        0,
+        0,
+        3.637505054473877,
+        -2.3827910423278809,
+        1
+      ],
+      "name": "BZR_Classic_Black_Frame"
+    },
+    {
+      "mesh": 0,
+      "name": "BZR_Classic_Black_Frame_BZR_Classic_Black_Frame_Mat_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0701743364334106,
+        0,
+        0,
+        0,
+        0,
+        1.0609131656140349,
+        0.14048617507604855,
+        0,
+        0,
+        -0.14048617507604855,
+        1.0609131656140349,
+        0,
+        0,
+        3.637505054473877,
+        -2.3827910423278809,
+        1
+      ],
+      "name": "BZR_Classic_Black_Lens"
+    },
+    {
+      "mesh": 1,
+      "name": "BZR_Classic_Black_Lens_BZR_Classic_Black_Lens_Mat_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mustache Free Model (Bigote)
+* source:	https://sketchfab.com/3d-models/mustache-free-model-bigote-3697959ccd3d464fb60e892b48ffff3f
+* author:	depa_96 (https://sketchfab.com/depa_96)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mustache Free Model (Bigote)" (https://sketchfab.com/3d-models/mustache-free-model-bigote-3697959ccd3d464fb60e892b48ffff3f) by depa_96 (https://sketchfab.com/depa_96) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
